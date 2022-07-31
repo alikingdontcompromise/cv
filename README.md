@@ -25,7 +25,16 @@
 [my linked](https://youtube.com/channel/UC2DYveYhTkGZI2lwqAYrVhw) </br>
 [my linked](https://tse2.mm.bing.net/th?id=OIP.Y2U33GE7LdQ4mTz2Vhd2RwHaFj&pid=Api&P=0)
 
-# **name**     
+# **name**
+</br>
+
+### my name:
+Ali hussain 
+</br>
+
+### my father name:
+Jawaid iqbal 
+</br>
 # **education**
 # **interest** 
 # **experience** 
