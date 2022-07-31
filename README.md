@@ -58,5 +58,5 @@ mango mango apple 789
 ```
 
 </br>
-![print](https://avatars.githubusercontent.com/u/110324453?v=4)
+![print](https://github.com/alikingdontcompromise/cv/blob/main/WhatsApp%20Image%202022-07-30%20at%2011.45.52%20PM.jpeg)
 </br>
