@@ -39,5 +39,9 @@ Jawaid iqbal
 # **education**
 Intermediat in commerce 
 </br>
+
 # **interest** 
+Accountant, bank job, teacher, paper composing anything is possible 
+</br>
+
 # **experience** 
