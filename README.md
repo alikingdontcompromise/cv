@@ -37,7 +37,8 @@ Jawaid iqbal
 </br>
 
 # **education**
-Intermediat in commerce 
+Intermediat in commerce </br>
+college:gulistan e johar 
 </br>
 
 # **interest** 
@@ -45,5 +46,5 @@ Accountant, bank job, teacher, paper composing anything is possible
 </br>
 
 # **experience** 
-Accountant , teaching paper composing iot, monbile application, information tecnology, python,Resberry - pi 
+Accountant , teaching paper composing iot, monbile application, information tecnology, python,Resberry - pi anything is possible 
 </br>
