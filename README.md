@@ -29,22 +29,26 @@
 </br>
 
 ### my name:
-Ali hussain 
+Ali Hussain 
 </br>
 
 ### my father name:
-Jawaid iqbal 
+Jawaid Iqbal 
 </br>
 
 # **education**
-Intermediat in commerce </br>
-college:gulistan e johar 
+Intermediat In Commerce </br>
+College:Gulistan-e-Johar 
 </br>
 
 # **interest** 
-Accountant, bank job, teacher, paper composing anything is possible 
+Accountant, Bank job, Teacher, Paper Composing Anything Is Possible 
 </br>
 
 # **experience** 
 Accountant , teaching paper composing iot, monbile application, information tecnology, python,Resberry - pi anything is possible 
 </br>
+
+<!---
+mango
+--->
