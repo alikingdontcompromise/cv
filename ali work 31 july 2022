@@ -56,41 +56,7 @@ mango
 ```
 mango mango apple 789
 ```
-```
-
-[
-    {
-        "id": "dc3769e405b793fa",
-        "type": "serial out",
-        "z": "58d163b8c6dfbfe1",
-        "name": "ESP32 Serial Port",
-        "serial": "fdf528aa7c448b35",
-        "x": 370,
-        "y": 120,
-        "wires": []
-    },
-    {
-        "id": "fdf528aa7c448b35",
-        "type": "serial-port",
-        "serialport": "COM3",
-        "serialbaud": "115200",
-        "databits": "8",
-        "parity": "none",
-        "stopbits": "1",
-        "waitfor": "",
-        "dtr": "none",
-        "rts": "none",
-        "cts": "none",
-        "dsr": "none",
-        "newline": "\\n",
-        "bin": "false",
-        "out": "char",
-        "addchar": "",
-        "responsetimeout": "10000"
-    }
-]
-```
 
 </br>
-https://avatars.githubusercontent.com/u/110324453?v=4
+![print](https://avatars.githubusercontent.com/u/110324453?v=4)
 </br>
