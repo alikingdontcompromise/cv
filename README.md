@@ -12,8 +12,8 @@
 1. ubaid
  + school
 3. ibrahim 
- + college 
+    + college 
 5. ali
- + school
+        + school
 7. kashan
- + uni
+             + uni
