@@ -24,3 +24,8 @@
 ***Ali king***  </br>
 [my linked](https://youtube.com/channel/UC2DYveYhTkGZI2lwqAYrVhw) </br>
 [my linked](https://tse2.mm.bing.net/th?id=OIP.Y2U33GE7LdQ4mTz2Vhd2RwHaFj&pid=Api&P=0)
+
+# **name**     
+# **education**
+# **interest** 
+# **experience** 
