@@ -45,3 +45,5 @@ Accountant, bank job, teacher, paper composing anything is possible
 </br>
 
 # **experience** 
+Accountant , teaching paper composing iot, monbile application, information tecnology, python,Resberry - pi 
+</br>
