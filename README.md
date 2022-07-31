@@ -35,6 +35,9 @@ Ali hussain
 ### my father name:
 Jawaid iqbal 
 </br>
+
 # **education**
+Intermediat in commerce 
+</br>
 # **interest** 
 # **experience** 
